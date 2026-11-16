@@ -7,7 +7,7 @@ I specialize in building interactive software, 2D/3D games, spatial computing ap
 - 🎮 **Current Focus:** Interactive game development, AR/VR simulations, and real-time body/gesture tracking.
 - 🛠️ **Core Stack:** Unity Engine, C#, Computer Vision (MediaPipe, OpenCV), and Full-Stack Web Technologies.
 - 📍 **Based in:** Bandung, Indonesia
-- 🕹️ **Playable Builds:** [itch.io/shinchanstudio](https://shinchanstudio.itch.io) *(sesuaikan dengan URL aslimu)*
+- 🕹️ **Playable Builds:** [itch.io/shinchanstudio](https://shinchanstudio.itch.io) & (https://fantasyx-studio.itch.io/)
 
 ---
 
