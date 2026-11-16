@@ -59,5 +59,5 @@ I specialize in building interactive software, 2D/3D games, spatial computing ap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME-LINKEDIN)
 [![itch.io Personal](https://img.shields.io/badge/Itch.io-shinchanstudio-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://shinchanstudio.itch.io)
 [![itch.io Studio](https://img.shields.io/badge/Itch.io-Fantasyx_Studio-8B5CF6?style=for-the-badge&logo=itch.io&logoColor=white)](https://fantasyx-studio.itch.io/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://link-portofolio-kamu.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bit.ly/Portofolio-ChandraMuktiG)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
