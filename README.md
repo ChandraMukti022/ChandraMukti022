@@ -7,7 +7,7 @@ I specialize in building interactive software, 2D/3D games, spatial computing ap
 - 🎮 **Current Focus:** Interactive game development, AR/VR simulations, and real-time body/gesture tracking.
 - 🛠️ **Core Stack:** Unity Engine, C#, Computer Vision (MediaPipe, OpenCV), and Full-Stack Web Technologies.
 - 📍 **Based in:** Bandung, Indonesia
-- 🕹️ **Playable Builds:** [itch.io/shinchanstudio](https://shinchanstudio.itch.io) & https://fantasyx-studio.itch.io/
+- 🕹️ **Playable Builds:** [itch.io/shinchanstudio](https://shinchanstudio.itch.io) & [itch.io/fantasyx-studio](https://fantasyx-studio.itch.io/)
 
 ---
 
@@ -42,9 +42,22 @@ I specialize in building interactive software, 2D/3D games, spatial computing ap
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChandraMukti022/ChandraMukti022/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChandraMukti022/ChandraMukti022/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ChandraMukti022/ChandraMukti022/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME-KAMU)
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://shinchanstudio.itch.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME-LINKEDIN)
+[![itch.io Personal](https://img.shields.io/badge/Itch.io-shinchanstudio-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://shinchanstudio.itch.io)
+[![itch.io Studio](https://img.shields.io/badge/Itch.io-Fantasyx_Studio-8B5CF6?style=for-the-badge&logo=itch.io&logoColor=white)](https://fantasyx-studio.itch.io/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://link-portofolio-kamu.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
